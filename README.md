@@ -1,2 +1,4 @@
 # Hello-World
-An ordinary repository
+Hi there!!!
+I'm a student from the cs department.
+Currently doing my first year course.
